@@ -1,9 +1,6 @@
 <?xml version="1.0"?>
  <project default="war" name="SampleBuild">
 	<path id="compile.classpath"> 	
-		<fileset dir="WEB-INF/lib">
-			<include name="*.jar"/>
-		</fileset> 
 		<fileset dir="C:/Users/preeti_khorjuvenkar/Downloads/installers_plugins/apache-tomcat-7.0.53.tar/apache-tomcat-7.0.53/apache-tomcat-7.0.53/lib">
 			<include name="*.jar"/>
 		</fileset>
